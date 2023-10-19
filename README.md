@@ -1,1 +1,2 @@
-# python_web_start
+# python-web-start
+Знайомство з Django (Дошка оголошень)
